@@ -1,6 +1,6 @@
 # Nombre del Proyecto
 
-Scripts de python para resolver problemas hidroestaticos
+Scripts de python para resolver problemas hidroestaticos, recomiendo utilizar el Pyqt5programm debido a que es una interfaz grafica
 ## Requisitos
 
 Enumera las dependencias necesarias para que tu proyecto funcione.
